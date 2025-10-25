@@ -9,7 +9,8 @@ OpenROAD is an open-source, fully automated RTL-to-GDSII flow for digital integr
 
            git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts
 
- ![f17b1481-c61b-4947-84cb-0b2015f8f533](https://github.com/user-attachments/assets/c4804c45-f010-4bd1-9c1e-7a72ef11674d)
+  ![929dc9ce-4d7d-466b-a8b4-0db5e7fb63ff](https://github.com/user-attachments/assets/56dd2d00-0e82-43c6-afdb-0d47c318d398)
+
 
 
            cd OpenROAD-flow-scripts
